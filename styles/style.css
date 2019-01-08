@@ -1,12 +1,1 @@
-.message { font-size: 1.3em; font-weight: bold; }
-.border-danger {
-    border-color: #dc3545;
-}
-.border-success {
-    border-color: #28a745;
-}
-.border {
-  border: 1px solid;
-padding: 10px;
-background-color: #f7f7f7;
-}
+.message{font-size:1.3em;font-weight:700}.border-danger{border-color:#dc3545}.border-success{border-color:#28a745}.border{border:1px solid;padding:10px;background-color:#f7f7f7}
